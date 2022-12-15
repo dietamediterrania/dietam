@@ -1,4 +1,8 @@
+#### La dieta mediterrània
+
 ![Alt text](/docs/Dieta.png)
+
+### Introducció
 
 ## Què és la dieta mediterrània?
 
@@ -21,5 +25,21 @@ La va inventar l'epidemiòleg Leland G. Allbaugh.
 ## Que diuen els experts sobre aquesta dieta?
 
 Experts confirmen que la dieta mediterrània està associada a una major longevitat. La dieta mediterrània està associada a "una major longevitat, una millor salut cardiovascular, la reducció del risc de càncer i també a beneficis per a la funció cognitiva de persones de la tercera edat".
+
+
+### El mercat transparent
+# D’on procedeixen les verdures i fruites que consumiu a casa? On compreu habitualment?
+Els aliments que consumim a les nostres cases procedeixen de les fruteries que la majoria compren els seus productes al mercabarna. Els aliments els comprem habitualment a les fruiteries, carnisseries i al mercat
+
+# D’on procedeix la carn que consumim? tenim opcions per elegir? i informació?
+La carn que comprem és produïda aquí mateix, la mateixa Catalunya és la primera productora de carn d'aus i les diferents carns provenen de països veïns.
+
+
+#El peix que consumim, d’on procedeix? és peix pescat al voltant de Cornellà?, és fresc?, és legal?
+La gran majoria del peix que comprem, procedeix de senegal i països al voltant d'aquest
+
+
+#A casa nostra ens plantegem aquestes qüestions?, perquè creiem que les plantegem o que no les plantegem?
+No pensem en cap moment d’on prové el aliments. Crec que no les planteiem perque no pensem en les desavantatges que en pot aportar
 
 
