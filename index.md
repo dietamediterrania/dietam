@@ -1,123 +1,25 @@
----
-layout: default
----
+![Alt text](/docs/Dieta.png)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Què és la dieta mediterrània?
 
-[Link to another page](./another-page.html).
+La dieta mediterrània és un tipus de dieta que és bassa en aliments tradicionals dels diferents països que envolten el mar Mediterrani.
+La finalitat d'aquesta dieta és complementar l'exercici físic i el clima dels països.
 
-There should be whitespace between paragraphs.
+## De quins aliments està compost?
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Està compost per llegum, verdures, fruites, peix, carn blanca, pasta, arròs i fruits secs. A més del consum moderat de vi. Un dels productes que més recomana aquesta dieta és l'oli d'oliva, ja que gràcies als seus àcids redueix la possibilitat de problemes arterials i té un gran contingut de vitamina E
 
-# Header 1
+## Quina és la seva finalitat?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+La seva finalitat es aportar-nos beneficis com per exemple el rendiment a l’hora de fer exercici físic, per tant també ens ajuda a baixar de pes, controlar la pressió arterial i la hipercolesterolemia.La pratica d’excersisi ens ajuda a prevenir la diabetes o el alzheimer.
 
-## Header 2
+## Quan va aparèixer?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Les primeres referències científiques a una dieta mediterrània són de l'any 1948.
+La va inventar l'epidemiòleg Leland G. Allbaugh.
 
-### Header 3
+## Que diuen els experts sobre aquesta dieta?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Experts confirmen que la dieta mediterrània està associada a una major longevitat. La dieta mediterrània està associada a "una major longevitat, una millor salut cardiovascular, la reducció del risc de càncer i també a beneficis per a la funció cognitiva de persones de la tercera edat".
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
